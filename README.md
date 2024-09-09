@@ -13,7 +13,6 @@ This is a RESTful API for a Library Management System, built using Laravel. The 
 - [Rate Limiting](#rate-limiting)
 - [Testing](#testing)
 - [Postman Documentation](#postman-documentation)
-- [Docker Setup](#docker-setup-optional)
 
 ## Features
 
